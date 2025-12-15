@@ -1,6 +1,6 @@
 # OrangeHRM trên Docker
 
-```docker-compose up -d``` to start the OrangeHRM application.
+```docker compose up -d``` to start the OrangeHRM application.
 
 ### Truy cập OrangeHRM tại http://localhost:8080
 

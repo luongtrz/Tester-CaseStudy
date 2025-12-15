@@ -1,0 +1,1 @@
+`nodejs seed.js` to seed initial data User into the OrangeHRM database.
