@@ -1,6 +1,5 @@
-const mysql = require('mysql2/promise');
-const { faker } = require('@faker-js/faker');
-
+import { faker } from '@faker-js/faker';
+import mysql from 'mysql2/promise';
 // 1. Cấu hình kết nối (Lưu ý Port 3306 phải được map ra từ Docker)
 const dbConfig = {
     host: 'localhost',
